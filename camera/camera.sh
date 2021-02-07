@@ -2,6 +2,6 @@
 
 DATE=$(date +"%Y-%m-%d_%H%M")
 
-mdkir ./photos >> /dev/null
+mkdir ./photos >> /dev/null
 raspistill -vf -hf -o ./photos/$DATE.jpg
 

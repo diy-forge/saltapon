@@ -1,5 +1,5 @@
 Adafruit-Blinka==6.1.0
-adafruit-circuitpython-busdevice==5.0.4
+adafruit-circuitpython-busdevice==5.2.17
 adafruit-circuitpython-motor==3.2.5
 adafruit-circuitpython-neopixel==6.0.1
 adafruit-circuitpython-pca9685==3.3.3

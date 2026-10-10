@@ -16,7 +16,7 @@ cffi==1.10.0
 chardet==3.0.4
 conda==4.3.22
 cryptography==1.9
-idna==2.5
+idna==3.20
 packaging==16.8
 pycosat==0.6.1
 pycparser==2.17

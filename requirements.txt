@@ -15,7 +15,7 @@ certifi==2017.4.17
 cffi==1.10.0
 chardet==3.0.4
 conda==4.3.22
-cryptography==1.9
+cryptography==50.0.0
 idna==2.5
 packaging==16.8
 pycosat==0.6.1
@@ -25,10 +25,10 @@ pyOpenSSL==16.2.0
 pyparsing==2.2.0
 pyserial==3.5
 pyusb==1.1.1
-requests==2.33.0
+requests==2.34.2
 rpi-ws281x==4.2.5
 RPi.GPIO==0.7.0
 ruamel.yaml==0.11.7
 six==1.10.0
 spidev==3.5
-urllib3==1.21.1
+urllib3==2.8.0

@@ -21,7 +21,7 @@ packaging==16.8
 pycosat==0.6.6
 pycparser==2.17
 pyftdi==0.52.9
-pyOpenSSL==26.0.0
+pyOpenSSL==26.4.0
 pyparsing==2.2.0
 pyserial==3.5
 pyusb==1.1.1
